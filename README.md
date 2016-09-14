@@ -1,2 +1,2 @@
 # java
-Data structures and algorithms programs in Java Language 
+Data structures and algorithm programs in Java Language 
